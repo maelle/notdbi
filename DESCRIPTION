@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/maelle/notdbi
+BugReports: https://github.com/maelle/notdbi/issues
