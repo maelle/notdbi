@@ -15,3 +15,5 @@ Suggests:
 VignetteBuilder: knitr
 URL: https://github.com/maelle/notdbi
 BugReports: https://github.com/maelle/notdbi/issues
+Config/Needs/website: 
+    r-dbi/dbitemplate
